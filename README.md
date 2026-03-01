@@ -25,7 +25,7 @@ This project analyses a simulated hospital admissions dataset to explore:
 - An exploratiory data analysis was performed with Pandas, relationships were graphed with Matplotlib, and an additional datset was created from data in the original set to explore bed occupancy (notebook 3)
 - Key performance indicators were identified and operational insights were relayed and reported (notebook 3)
 - An interactive 'Hospital Admissions Performance' dashboard was created with Tableau that allows the filtering of admission numbers by month, ward, and bed occupancy rate. Average length of stay by ward can also be exmained  (https://public.tableau.com/app/profile/jocelyn.sickler/viz/hospital_admissions_dashboard/HospitalAdmissionsPerformace-2023?publish=yes)
-- An additional interactive 'Patient Trends' dahboard was created with Tableau that allows filtering by admission type, age group, and ward to analyse average length of stay and readmission rates by demographic (https://public.tableau.com/app/profile/jocelyn.sickler/viz/patient_trends_dashboard/PatientTrends?publish=yes)
+- An additional interactive 'Patient Trends' dashboard was created with Tableau that allows filtering by admission type, age group, and ward to analyse average length of stay and readmission rates by demographic (https://public.tableau.com/app/profile/jocelyn.sickler/viz/patient_trends_dashboard/PatientTrends?publish=yes)
  
 ## Key Findings:
 - The average length of stay was 7.46 days over 4120 admission records (Messy dataset before cleaning contains 5000 records)
