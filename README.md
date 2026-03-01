@@ -1,5 +1,11 @@
 # Hospital Performance Analysis
+End-to-end data analysis project with Python and Tableau.
 
+## Hospital Performance Dashboard
+[!Hospital Performance Dashboard](Tableau-dashboard/Hospital-Admissions-Performace-2023.png)
+
+## Patient Trends Dashboard
+[!Patient Trends Dashboard](Tableau-dashboard/Patient-Trends.png)
 
 ## Project Overview:  
 This project analyses a simulated hospital admissions dataset to explore:
